@@ -6,7 +6,7 @@ import java.sql.Date;
  * Fiz somente algumas evoluções como conta ativa ou inativa e dentre outras.
  * @author Wilton Ribeiro Cruz
  * @since 25/09/2022
- * @version 1.1
+ * @version 1.2
  */
 
 public abstract class Conta implements Iconta {
